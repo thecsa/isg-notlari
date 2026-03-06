@@ -1,4 +1,4 @@
-# Zaman Aşımı Süreleri
+# Zaman Aşımı Süreleri+
 4857 sayılı İş Kanunu'na göre işçi alacakları ve tazminatlarında uygulanacak **zamanaşımı süresi kural olarak 5 yıldır**. Kanunda belirtilen detaylı zamanaşımı kuralları şu şekildedir:
 
 *   **Ücret Alacakları:** İşçinin ücret alacaklarında (maaş, mesai, prim vb.) zamanaşımı süresi beş yıldır.

@@ -13,7 +13,7 @@ Toplu işçi çıkarmanın kapsamı işyerindeki toplam işçi sayısına göre 
 *   **Görüşmeler:** Bildirimden sonra işveren ile sendika temsilcileri arasında işçi çıkarmanın önlenmesi, sayının azaltılması veya işçiler üzerindeki olumsuz etkilerin en aza indirilmesi için görüşmeler yapılır ve bu toplantının yapıldığına dair bir belge düzenlenir.
 
 ## İşyerinin Kapatılması Durumu
-İşyerinin bütünüyle kapatılarak kesin ve devamlı suretle faaliyete son verilmesi halinde, işverenin sadece durumu en az 30 gün önceden ilgili bölge müdürlüğüne ve İŞKUR'a bildirmesi ve bu durumu işyerinde ilan etmesi yükümlülüğü bulunmaktadır.
+İşyerinin bütünüyle kapatılarak kesin ve devamlı suretle faaliyete son verilmesi halinde, işverenin sadece durumu **en az 30 gün önceden** ilgili bölge müdürlüğüne ve İŞKUR'a bildirmesi ve bu durumu işyerinde ilan etmesi yükümlülüğü bulunmaktadır.
 
 ## Yeniden İşe Alma Zorunluluğu
 İşveren, toplu işçi çıkarmanın kesinleşmesinden itibaren **altı ay içinde** aynı nitelikteki iş için yeniden işçi almak isterse, nitelikleri uygun olan eski işçilerini **tercihen işe çağırmak zorundadır**.
@@ -24,4 +24,4 @@ Toplu işçi çıkarmanın kapsamı işyerindeki toplam işçi sayısına göre 
 *   **Kötüye Kullanım Yasağı:** İşveren, toplu işçi çıkarma hükümlerini, işçinin iş güvencesi (geçerli sebeple fesih ve işe iade) haklarını engellemek amacıyla kullanamaz; aksi halde işçi geçersiz fesih iddiasıyla dava açabilir.
 
 ## Aykırılık Halinde Uygulanacak Ceza
-Toplu işçi çıkarma bildirim ve hükümlerine aykırı olarak işçi çıkaran işveren veya işveren vekiline, işten çıkardığı **her işçi için idari para cezası** (Kanun metninde 450 TL olarak ifade edilmiştir) verilir.
+Toplu işçi çıkarma bildirim ve hükümlerine aykırı olarak işçi çıkaran işveren veya işveren vekiline, işten çıkardığı **her işçi için idari para cezası** (Kanun metninde 450₺ olarak ifade edilmiştir) verilir.

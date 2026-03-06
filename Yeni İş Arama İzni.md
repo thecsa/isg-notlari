@@ -1,4 +1,4 @@
-# Yeni İş Arama İzni
+# Yeni İş Arama İzni+
 4857 sayılı İş Kanunu'nun 27. maddesine göre **yeni iş arama izni**, fesih bildirim (ihbar) süreleri içinde işverenin işçiye yeni bir iş bulabilmesi için vermek zorunda olduğu yasal bir izindir. 
 
 Yeni iş arama iznine dair temel kural ve şartlar şunlardır:

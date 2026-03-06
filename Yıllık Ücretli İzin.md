@@ -1,4 +1,4 @@
-# Yıllık Ücretli İzin
+# Yıllık Ücretli İzin+
 4857 sayılı İş Kanunu'na göre, işyerinde işe başladığı günden itibaren deneme süresi de dâhil olmak üzere **en az bir yıl çalışmış olan işçilere** yıllık ücretli izin verilir. İşçiler bu yıllık ücretli izin hakkından kesinlikle vazgeçemezler.
 
 ## Yıllık Ücretli İzin Süreleri

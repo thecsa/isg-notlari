@@ -1,4 +1,4 @@
-# Sürekli İş Göremezlik
+# Sürekli İş Göremezlik+
 5510 sayılı Kanun kapsamında **sürekli iş göremezlik**, iş kazası veya meslek hastalığı sonucunda sigortalının çalışma gücünü belirli bir oranda kalıcı olarak kaybetmesi durumudur. Sürekli iş göremezlik gelirinin şartları, hesaplanması ve diğer özellikleri şu şekildedir:
 
 ## Sürekli İş Göremezlik Gelirine Hak Kazanma Şartları
