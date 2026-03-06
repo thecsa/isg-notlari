@@ -1,4 +1,4 @@
-# Fesih Bildirim Süreleri
+# Fesih Bildirim Süreleri+
 Belirsiz süreli hizmet sözleşmelerinde fesih bildirim süreleri, işçinin çalışma süresine göre kademeli olarak belirlenmiştir:
 *   Hizmeti **1 yıla kadar** sürmüş olan işçi için: **2 hafta**,
 *   Hizmeti **1 yıldan 5 yıla kadar** sürmüş olan işçi için: **4 hafta**,
