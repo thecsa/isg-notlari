@@ -1,4 +1,4 @@
-# Geçersiz Fesih
+# Geçersiz Fesih+
 
 ## İşe İade Süreci (Fesih Bildirimine İtiraz)
 *   **Arabulucuya Başvuru:** İş sözleşmesi feshedilen işçi, fesih bildiriminde sebep gösterilmediği veya gösterilen sebebin geçerli olmadığı iddiasıyla, fesih bildiriminin tebliğ tarihinden itibaren **bir ay içinde** işe iade talebiyle arabulucuya başvurmak zorundadır.
