@@ -1,8 +1,8 @@
-# İş Sözleşmesi
+# İş Sözleşmesi+
 İş sözleşmesi, bir tarafın (işçi) bağımlı olarak iş görmeyi, diğer tarafın (işveren) da ücret ödemeyi üstlendiği sözleşmedir. İhtiyaçlara ve Kanun sınırlarına göre iş sözleşmeleri farklı türlerde düzenlenebilir:
 
 *   **Belirsiz ve Belirli Süreli İş Sözleşmesi:** İş ilişkisi bir süreye bağlı değilse belirsiz süreli sayılır. Belli bir işin tamamlanması veya belirli bir olgunun ortaya çıkması gibi objektif koşullara bağlı olarak yazılı şekilde yapılan sözleşmeler ise belirli sürelidir. Belirli süreli sözleşmeler, esaslı bir neden olmadıkça üst üste (zincirleme) yapılamaz; yapılırsa başlangıçtan itibaren belirsiz süreli kabul edilir.
-*   **Tam Süreli ve Kısmî Süreli İş Sözleşmesi:** İşçinin normal haftalık çalışma süresinin, tam süreli emsal işçiye göre önemli ölçüde daha az belirlendiği sözleşmeler kısmî sürelidir.
+*   **Kısmî Süreli İş Sözleşmesi:** İşçinin normal haftalık çalışma süresinin, tam süreli emsal işçiye göre önemli ölçüde daha az belirlendiği sözleşmeler kısmî sürelidir.
 *   **Çağrı Üzerine Çalışma:** İşçiye ihtiyaç duyulması halinde iş görme ediminin yerine getirileceğinin kararlaştırıldığı, kısmi süreli bir iş sözleşmesidir. 
 *   **Uzaktan Çalışma:** İşçinin iş görme edimini evinde veya teknolojik iletişim araçları vasıtasıyla işyeri dışında yerine getirdiği, yazılı kurulan iş ilişkisidir.
 *   **Deneme Süreli Sözleşme:** Taraflar sözleşmeye en çok 2 ay süreli bir deneme kaydı koyabilir (toplu iş sözleşmeleriyle 4 aya uzatılabilir). Bu süre içinde taraflar sözleşmeyi tazminatsız ve bildirim süresiz feshedebilir.

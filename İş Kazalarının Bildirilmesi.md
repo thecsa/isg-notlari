@@ -1,7 +1,7 @@
-# İş Kazalarının Bildirilmesi
+# İş Kazalarının Bildirilmesi+
 İş kazalarının bildirilme süreleri ve yükümlülükleri şu şekildedir:
 
-*   **Hizmet Akdiyle Çalışanlar (4/a) ve Belirli Sigortalılık Kapsamındakiler (Madde 5) İçin:** Kazaya uğrayan kişiyi çalıştıran işveren tarafından, o yerin yetkili kolluk kuvvetlerine **derhal**, SGK'ya (Kuruma) ise en geç kazadan sonraki **üç iş günü içinde** bildirilmesi zorunludur. İş kazası işverenin kontrolü dışındaki bir yerde meydana gelmişse, bu üç iş günlük süre işverenin **kazayı öğrendiği tarihten itibaren** başlar.
+*   **Hizmet Akdiyle Çalışanlar (4/a) ve Belirli Sigortalılık Kapsamındakiler İçin:** Kazaya uğrayan kişiyi çalıştıran işveren tarafından, o yerin yetkili kolluk kuvvetlerine **derhal**, SGK'ya (Kuruma) ise en geç kazadan sonraki **üç iş günü içinde** bildirilmesi zorunludur. İş kazası işverenin kontrolü dışındaki bir yerde meydana gelmişse, bu üç iş günlük süre işverenin **kazayı öğrendiği tarihten itibaren** başlar.
 *   **Kendi Adına ve Hesabına Bağımsız Çalışanlar (4/b - Bağ-Kur) İçin:** Sigortalının bizzat kendisi tarafından, rahatsızlığının bildirim yapmaya engel olmadığı günden sonraki **üç iş günü içinde** Kuruma bildirilmelidir. Ancak bu mazeret durumu bir ayı geçemez.
 *   **Tarım veya Orman İşlerinde Süreksiz Çalışanlar İçin:** Kaza durumu kendileri veya işverenleri tarafından kolluk kuvvetlerine **derhal**, Kuruma ise en geç **üç iş günü içinde** bildirilmelidir.
 
