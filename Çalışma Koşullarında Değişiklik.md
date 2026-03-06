@@ -1,4 +1,4 @@
-# Çalışma Koşullarında Değişiklik
+# Çalışma Koşullarında Değişiklik+
 İşveren, iş sözleşmesiyle, personel yönetmeliğiyle veya işyeri uygulamasıyla oluşan çalışma koşullarında esaslı bir değişiklik yapmak isterse, bu durumu işçiye **yazılı olarak bildirmek zorundadır**. 
 
 ## İşçinin Onayı ve Süre

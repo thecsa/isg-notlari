@@ -1,4 +1,4 @@
-# Çalışma Süresinden Sayılan Haller
+# Çalışma Süresinden Sayılan Haller+
 4857 sayılı İş Kanunu'na göre, işçinin fiilen çalışmadığı ancak **günlük çalışma süresinden sayılan haller** şunlardır:
 
 *   **Maden ve Yeraltı İşleri:** Madenlerde, taşocaklarında, yeraltında veya su altında yapılan işlerde işçilerin asıl çalışma yerlerine inmeleri, girmeleri ve buralardan çıkmaları için gereken süreler.
