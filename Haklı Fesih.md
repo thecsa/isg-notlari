@@ -1,9 +1,8 @@
-# Haklı Nedenle Derhal Fesih Hakkı
+# Haklı Nedenle Derhal Fesih Hakkı+
 4857 sayılı İş Kanunu'na göre, belirsiz veya belirli süreli olmasına bakılmaksızın, iş sözleşmeleri sürenin bitiminden önce veya ihbar süresi beklenmeksizin işçi veya işveren tarafından haklı nedenlere dayanılarak derhal feshedilebilir. 
 
-## İşçinin Haklı Nedenle Derhal Fesih Hakkı (Madde 24)
+## İşçinin Haklı Nedenle Derhal Fesih Hakkı
 İşçi aşağıdaki durumlarda sözleşmesini haklı nedenle feshedebilir:
-
 *   **Sağlık Sebepleri:** İş sözleşmesine konu olan işin yapılması, işin niteliğinden dolayı işçinin sağlığı veya yaşayışı için tehlike oluşturuyorsa veya işçinin sürekli yakından görüştüğü işveren ya da başka bir işçi bulaşıcı veya işçinin işiyle bağdaşmayan bir hastalığa yakalanırsa fesih hakkı doğar.
 *   **Ahlak ve İyiniyet Kurallarına Uymayan Haller:** 
     * İşveren, sözleşmenin esaslı şartları hakkında işçiyi yanıltırsa.
@@ -14,7 +13,7 @@
     * Parça başına veya iş tutarı üzerinden ödeme yapılan hallerde, işçiye eksik iş verilip aradaki ücret farkı zaman esasına göre de ödenerek telafi edilmezse.
 *   **Zorlayıcı Sebepler:** İşyerinde bir haftadan fazla süreyle işin durmasını gerektiren zorlayıcı sebepler ortaya çıkarsa işçi sözleşmesini feshedebilir.
 
-## İşverenin Haklı Nedenle Derhal Fesih Hakkı (Madde 25)
+## İşverenin Haklı Nedenle Derhal Fesih Hakkı
 İşveren aşağıdaki durumlarda sözleşmeyi haklı nedenle feshedebilir:
 
 *   **Sağlık Sebepleri:** 

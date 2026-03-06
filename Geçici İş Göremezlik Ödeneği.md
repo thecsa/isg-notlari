@@ -1,4 +1,4 @@
-# Geçici İş Göremezlik Ödeneği
+# Geçici İş Göremezlik Ödeneği+
 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'na göre **geçici iş göremezlik ödeneği**, Kurumca (SGK) yetkilendirilen hekim veya sağlık kurullarından istirahat raporu alınmış olması şartıyla sigortalılara ödenen bir haktır. 
 
 Geçici iş göremezlik ödeneğinin verilme şartları, miktarı ve kesilme durumlarına ilişkin detaylar şunlardır:

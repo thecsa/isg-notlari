@@ -1,9 +1,9 @@
-# Geçici İş İlişkisi
+# Geçici İş İlişkisi+
 4857 sayılı İş Kanunu'na göre geçici iş ilişkisi; özel istihdam bürosu aracılığıyla veya holding bünyesi içinde (yahut aynı şirketler topluluğuna bağlı başka bir işyerinde) görevlendirme yapılmak suretiyle kurulabilen bir iş ilişkisidir. Özel istihdam bürosu aracılığıyla kurulan ilişkiler; askerlik veya sözleşmenin askıda olduğu haller, mevsimlik tarım işleri, ev hizmetleri, aralıklı görülen işler, acil iş sağlığı/güvenliği durumları, öngörülemeyen veya dönemsel iş artışları gibi belirli durumlarda kurulabilir.
 
 ## Geçici İş İlişkisi Kurulamayan Haller
 Kanun, işçi haklarını korumak amacıyla bazı durumlarda ve yerlerde geçici iş ilişkisi kurulmasını kesin olarak yasaklamıştır:
-*   **Toplu İşçi Çıkarma:** Toplu işçi çıkarılan işyerlerinde, çıkarma işleminden sonraki sekiz ay süresince geçici iş ilişkisi kurulamaz.
+*   **Toplu İşçi Çıkarma:** Toplu işçi çıkarılan işyerlerinde, çıkarma işleminden sonraki **sekiz ay** süresince geçici iş ilişkisi kurulamaz.
 *   **Kamu Kurumları:** Kamu kurum ve kuruluşlarında geçici iş ilişkisi kurulamaz.
 *   **Madenler:** Yer altında maden çıkarılan işyerlerinde geçici iş ilişkisi kurulamaz.
 *   **Grev ve Lokavt:** Geçici işçi çalıştıran işveren, grev ve lokavtın uygulanması sırasında (Sendikalar Kanunu hükümleri saklı kalmak kaydıyla) geçici iş ilişkisiyle işçi çalıştıramaz.
