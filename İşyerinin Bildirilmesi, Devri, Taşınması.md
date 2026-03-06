@@ -1,11 +1,11 @@
-# İşyerinin Bildirilmesi, Devri, Taşınması
+# İşyerinin Bildirilmesi, Devri, Taşınması+
 
 ## İşyeri Tanımı ve Kapsamı
 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'na göre işyeri; sigortalı sayılanların maddi olan ve olmayan unsurlar ile birlikte işlerini yaptıkları yerlerdir. İşyerinde üretilen mal veya verilen hizmet ile nitelik yönünden bağlılığı bulunan ve aynı yönetim altında örgütlenen yerler, dinlenme, çocuk emzirme, yemek, uyku, yıkanma, muayene ve bakım, beden veya meslek eğitimi yerleri, avlu ve büro gibi diğer eklentiler ile araçlar da işyerinden sayılmaktadır.
 
 ## İşyerinin Bildirilmesi
 *   **İşverenin Yükümlülüğü:** İşveren, Kurumca (SGK) hazırlanan işyeri bildirgesini, **en geç sigortalı çalıştırmaya başladığı tarihte** Kuruma vermekle yükümlüdür. İşyeri bildirgesinin verilmemesi veya geç verilmesi, Kanunda belirtilen hak ve yükümlülükleri ortadan kaldırmaz.
-*   **Ticaret Sicili Bildirimleri İstisnası:** Şirket kuruluşunun ticaret sicili memurluklarına bildirilmesi halinde, bu bildirim Kuruma yapılmış sayılır ve ilgililerce ayrıca işyeri bildirgesi düzenlenmez. Ticaret sicili memurlukları, kendilerine yapılan bu bildirimi en geç on gün içinde Kuruma bildirmek zorundadır.
+*   **Ticaret Sicili Bildirimleri İstisnası:** Şirket kuruluşunun ticaret sicili memurluklarına bildirilmesi halinde, bu bildirim Kuruma yapılmış sayılır ve ilgililerce ayrıca işyeri bildirgesi düzenlenmez. Ticaret sicili memurlukları, kendilerine yapılan bu bildirimi **en geç on gün içinde** Kuruma bildirmek zorundadır.
 *   **Alt İşveren Bildirimi:** Alt işveren, asıl işverenin işyerinde çalıştırdığı sigortalıları, aralarında yaptıkları sözleşmeyi ibraz etmek kaydıyla, Kurumdan alacağı özel bir numara ile asıl işverenin kayıtlı olduğu dosyadan bildirir.
 *   **Ruhsat Veren Mercilerin Bildirimi:** Valilikler, belediyeler ve ruhsat vermeye yetkili diğer makamlar, yapı ruhsatı ve benzeri işlemlere ilişkin istihdam bilgilerini bir ay içinde Kuruma bildirmekle yükümlüdür. Kurumca belirlenen durumlarda bu bildirimler işyeri bildirgesi yerine geçebilir ve ayrıca işyeri bildirgesi düzenlenmez.
 

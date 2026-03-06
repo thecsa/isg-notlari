@@ -1,20 +1,5 @@
-# Muvazaa (Danışıklı İşlem)
+# Muvazaa (Danışıklı İşlem)+
 4857 sayılı İş Kanunu'nda **muvazaa** (danışıklı işlem), genellikle asıl işveren ile alt işveren (taşeron) arasındaki ilişkinin işçi haklarını kısıtlamak amacıyla kötüye kullanılması durumlarını ifade eder.
-
-## Hangi Durumlar Muvazaa Kabul Edilir?
-* Asıl işverenin kendi işçilerinin, alt işveren tarafından işe alınarak aynı işyerinde çalıştırılmaya devam ettirilmesi ve bu yolla haklarının kısıtlanması muvazaalı işlem sayılır.
-* Daha önce aynı işyerinde çalıştırılan bir kimse ile sonradan alt işveren ilişkisi kurulması da muvazaa olarak değerlendirilir.
-
-## Muvazaanın Sonuçları Nelerdir?
-* Muvazaalı bir ilişkinin tespiti halinde, alt işverenin işçileri **başlangıçtan itibaren asıl işverenin işçisi sayılarak** işlem görürler ve hakları asıl işveren üzerinden korunur.
-* Alt işverenin işyeri tescili için sunduğu belgeler iş müfettişlerince incelenir ve muvazaalı işlem tespit edilirse hazırlanan gerekçeli rapor işverenlere tebliğ edilir.
-* Rapora karşı **otuz iş günü içinde** itiraz edilmezse veya mahkeme muvazaalı işlemin varlığını onarsa tescil işlemi iptal edilir.
-
-## İtiraz Süreci ve Yaptırımlar
-* İşverenler, muvazaa tespitine ilişkin müfettiş raporuna karşı tebliğ tarihinden itibaren otuz iş günü içinde yetkili iş mahkemesine itiraz edebilirler. İtiraz üzerine açılacak dava dört ay içinde sonuçlandırılır.
-* Bildirim yükümlülüğünü ihlal edip işyerini muvazaalı olarak bildiren asıl işveren ile alt işverene veya vekillerine **ayrı ayrı idari para cezası** uygulanır.
-
-## Asıl İşveren-Alt İşveren İlişkisinde Muvazaa Süreci
 
 4857 sayılı İş Kanunu'na göre asıl işveren-alt işveren ilişkisinde **muvazaalı işlem (danışıklı işlem) süreci** şu aşamalardan oluşmaktadır:
 

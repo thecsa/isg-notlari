@@ -1,4 +1,4 @@
-# Meslek Hastalığı
+# Meslek Hastalığı+
 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'na göre meslek hastalığının tanımı, bildirilmesi ve soruşturulmasına ilişkin esaslar şu şekildedir:
 
 ## Meslek Hastalığının Tanımı
@@ -13,7 +13,7 @@ Hastalık, sigortalı işten ayrıldıktan sonra ortaya çıkmış ve eski işin
 
 ## Meslek Hastalığının Bildirilmesi
 Meslek hastalığı durumunun öğrenildiği günden başlayarak **üç iş günü içinde**, iş kazası ve meslek hastalığı bildirgesi ile Kuruma bildirilmesi zorunludur. Bildirim yükümlülüğü şu kişilere aittir:
-*   **Hizmet akdiyle çalışanlar (4/a) ve bazı özel sigorta kollarına tabi olanlar (Madde 5) için:** Sigortalının meslek hastalığına tutulduğunu öğrenen veya bu durum kendisine bildirilen **işveren** tarafından yapılır.
+*   **Hizmet akdiyle çalışanlar (4/a) ve bazı özel sigorta kollarına tabi olanlar için:** Sigortalının meslek hastalığına tutulduğunu öğrenen veya bu durum kendisine bildirilen **işveren** tarafından yapılır.
 *   **Kendi adına ve hesabına bağımsız çalışanlar (4/b) için:** Sigortalının **kendisi** tarafından yapılır.
 
 Bu bildirim yükümlülüğünü yerine getirmeyen veya kasten eksik/yanlış bildirimde bulunan işverene veya bağımsız çalışan sigortalıya (4/b), Kurum tarafından yapılmış masraflar ve ödenmişse geçici iş göremezlik ödenekleri rücu edilir (geri istenir).

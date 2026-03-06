@@ -1,4 +1,4 @@
-# Mazeret İzni
+# Mazeret İzni+
 4857 sayılı İş Kanunu'nun Ek 2. maddesine göre işçilere belirli özel durumlarda hak olarak tanınan mazeret izinleri (ücretli izinler) şunlardır:
 
 *   **Evlilik ve Evlat Edinme İzni:** İşçinin evlenmesi veya evlat edinmesi hâlinde **3 gün** ücretli izin verilir.

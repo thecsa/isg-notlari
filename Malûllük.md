@@ -1,8 +1,8 @@
-# Malûllük
+# Malûllük+
 5510 sayılı Kanun'a göre bir sigortalının **malûl sayılması** şu şartlara ve oranlara bağlanmıştır:
 
 ## Çalışma Gücü Kaybı Şartı
-Hizmet akdiyle çalışanlar (4/a) ile kendi adına bağımsız çalışanların (4/b) çalışma gücünün veya iş kazası/meslek hastalığı sonucu meslekte kazanma gücünün **en az %60'ını** kaybetmiş olması gerekir. Kamu idarelerinde çalışan sigortalıların (4/c) ise çalışma gücünün en az %60'ını veya **vazifelerini yapamayacak şekilde** meslekte kazanma gücünü kaybetmiş olması şarttır.
+Hizmet akdiyle çalışanlar (4/a) ile kendi adına bağımsız çalışanların (4/b) çalışma gücünün veya iş kazası/meslek hastalığı sonucu meslekte kazanma gücünün **en az %60'ını** kaybetmiş olması gerekir. Kamu idarelerinde çalışan sigortalıların (4/c) ise çalışma gücünün **en az %60'ını** veya **vazifelerini yapamayacak şekilde** meslekte kazanma gücünü kaybetmiş olması şarttır.
 
 ## Tespit Süreci
 Malûllük durumunun, sigortalının veya işverenin talebi üzerine yetkili sağlık kurullarından alınacak usulüne uygun raporların **Kurum Sağlık Kurulunca** incelenmesi sonucunda resmi olarak tespit edilmesi zorunludur.
