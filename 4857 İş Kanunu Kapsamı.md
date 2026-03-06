@@ -4,13 +4,12 @@
 *   **Deniz ve hava taşıma** işlerinde.
 *   **50'den az işçi çalıştırılan (50 dâhil)** tarım ve orman işlerinin yapıldığı işyerlerinde veya işletmelerinde.
 *   Aile ekonomisi sınırları içinde kalan tarımla ilgili her çeşit yapı işlerinde.
-*   Bir ailenin üyeleri ve 3 üncü dereceye kadar (3 üncü derece dâhil) hısımları arasında dışardan başka biri katılmayarak evlerde ve el sanatlarının yapıldığı işlerde.
+*   Bir ailenin üyeleri ve 3'üncü dereceye kadar (3'üncü derece dâhil) hısımları arasında dışardan başka biri katılmayarak evlerde ve el sanatlarının yapıldığı işlerde.
 *   **Ev hizmetlerinde**.
 *   Çıraklar, sporcular ve rehabilite edilenler hakkında.
-*   507 sayılı Esnaf ve Sanatkârlar Kanununun 2 nci maddesinin tarifine uygun **üç kişinin çalıştığı işyerlerinde**.
+*   507 sayılı Esnaf ve Sanatkârlar Kanununun 2'nci maddesinin tarifine uygun **üç kişinin çalıştığı işyerlerinde**.
 
 ## Kanunun Uygulandığı Alanlar
-
 Yukarıdaki genel istisnalara rağmen, aşağıdaki alanlarda yürütülen işler **İş Kanunu hükümlerine tabidir**:
 
 *   Kıyılarda veya liman ve iskelelerde gemilerden karaya ve karadan gemilere yapılan **yükleme ve boşaltma işleri**.
