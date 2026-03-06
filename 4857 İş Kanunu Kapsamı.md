@@ -1,4 +1,4 @@
-# 4857 İş Kanunu Kapsamı
+# 4857 İş Kanunu Kapsamı+
 4857 sayılı İş Kanunu hükümleri aşağıda belirtilen işlerde ve iş ilişkilerinde **uygulanmaz**:
 
 *   **Deniz ve hava taşıma** işlerinde.

@@ -1,4 +1,4 @@
-# Ara Dinlenme
+# Ara Dinlenme+
 4857 sayılı İş Kanunu'nun 68. maddesine göre, günlük çalışma süresinin ortalama bir zamanında o yerin gelenekleri ve işin gereğine göre ayarlanarak işçilere verilmesi gereken **ara dinlenme süreleri** şu şekildedir:
 
 *   **4 saat veya daha kısa süreli** işlerde: **15 dakika**.
