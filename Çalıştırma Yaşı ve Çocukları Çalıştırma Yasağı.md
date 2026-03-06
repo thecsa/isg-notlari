@@ -1,4 +1,4 @@
-# Çalıştırma Yaşı ve Çocukları Çalıştırma Yasağı
+# Çalıştırma Yaşı ve Çocukları Çalıştırma Yasağı+
 
 ## Genel Kural ve İstisnalar    
 4857 sayılı İş Kanunu'na göre, **15 yaşını doldurmamış çocukların çalıştırılması kural olarak yasaktır**. 

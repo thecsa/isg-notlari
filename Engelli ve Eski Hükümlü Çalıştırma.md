@@ -1,4 +1,4 @@
-# Engelli ve Eski Hükümlü Çalıştırma Zorunluluğu
+# Engelli ve Eski Hükümlü Çalıştırma Zorunluluğu+
 50 veya daha fazla işçi çalıştıran işverenler için engelli ve eski hükümlü (veya terör olaylarında malul sayılmayacak şekilde yaralananları) çalıştırma zorunluluğu oranları şu şekildedir:
 *   **Özel Sektör:** Yüzde 3 (%3) oranında engelli işçi çalıştırmak zorundadır.
 *   **Kamu İşyerleri:** Yüzde 4 (%4) engelli ve yüzde 2 (%2) eski hükümlü işçi çalıştırmakla yükümlüdür.
